@@ -1,20 +1,16 @@
 # ![Logo](https://github.com/GovernIB/maven/raw/binaris/pluginsib/projectinfo_Attachments/icon.jpg) pluginsib-loginmodulejboss  (pluginsib-2.0)
+*Mòduls per loggin de JBOSS*
 
+***Versions***
 
-**Descripció**
+> - Versió Estable: -
+> - Versió en Desenvolupament: __pluginsib-loginmodulejboss-2.0__ (branca [pluginsib-loginmodulejboss-2.0](../../tree/pluginsib-loginmodulejboss-2.0))
 
+***Descripció***
 
-Repositori que conté  mòduls de loggin per jboss.
+Repositori de  mòduls emprats per loggin suportats a jboss.
 
-La versió actual d'aquest plugin és la  [pluginsib-loginmodulejboss-2.0](https://github.com/GovernIB/pluginsib-loginmodulejboss/tree/pluginsib-loginmodulejboss-2.0).
-
-
-**Implementacions**
-
-Directori | Nom | Descripció
------------- | ------------- | -------------
-ldap | -- | --
-
+***Documentació***
 
 **Enllaços**
 
