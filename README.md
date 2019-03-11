@@ -5,4 +5,4 @@
 
 Directori | Descripció | Documentació
 ------------ | ------------- | -------------
-ldap | -- | --
+ldap | Mòdul d'autenticació i autorització amb JBOSS atacant un sistema ldap | --
